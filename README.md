@@ -1,5 +1,4 @@
 
-=======
 Program
 =======
 
@@ -10,7 +9,6 @@ schemes and shapes are included, and the user can create custom shapes by
 freehand drawing or editing B-spline control points.
 
 
-===========
 Compilation
 ===========
 
@@ -19,7 +17,6 @@ files have been provided, but no makefile. All non-standard dependencies
 have been included.
 
 
-=====
 Files
 =====
 
